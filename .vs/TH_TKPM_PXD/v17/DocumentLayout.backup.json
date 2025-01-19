@@ -136,7 +136,7 @@
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T06:50:10.339Z",
               "EditorCaption": ""
@@ -151,7 +151,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T06:59:32.286Z"
+              "WhenOpened": "2025-01-15T06:59:32.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,7 +164,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T07:19:27.299Z"
+              "WhenOpened": "2025-01-15T07:19:27.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -175,7 +177,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\appsettings.Production.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T08:12:29.815Z"
+              "WhenOpened": "2025-01-15T08:12:29.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -187,7 +190,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\Shared\\_MasterLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T08:36:52.101Z"
+              "WhenOpened": "2025-01-15T08:36:52.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -199,7 +203,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T07:15:28.734Z"
+              "WhenOpened": "2025-01-15T07:15:28.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -211,7 +216,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T06:45:12.154Z"
+              "WhenOpened": "2025-01-15T06:45:12.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -223,7 +229,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T06:47:45.245Z"
+              "WhenOpened": "2025-01-15T06:47:45.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -235,7 +242,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Service\\AuthMessageSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T08:05:29.03Z"
+              "WhenOpened": "2025-01-15T08:05:29.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -247,7 +255,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\parallax-template\\index.html",
               "ViewState": "AgIAAKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-15T08:42:51.703Z"
+              "WhenOpened": "2025-01-15T08:42:51.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -259,7 +268,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Service\\ISmsSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T08:08:35.162Z"
+              "WhenOpened": "2025-01-15T08:08:35.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -271,7 +281,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Service\\IEmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T08:07:35.189Z"
+              "WhenOpened": "2025-01-15T08:07:35.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -283,7 +294,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T07:05:20.686Z"
+              "WhenOpened": "2025-01-15T07:05:20.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -295,7 +307,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T06:40:29.051Z"
+              "WhenOpened": "2025-01-15T06:40:29.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -307,7 +320,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T06:37:00.703Z"
+              "WhenOpened": "2025-01-15T06:37:00.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -319,7 +333,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T06:59:40.086Z"
+              "WhenOpened": "2025-01-15T06:59:40.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -331,7 +346,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T07:15:27.422Z"
+              "WhenOpened": "2025-01-15T07:15:27.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -343,7 +359,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T07:15:36.436Z"
+              "WhenOpened": "2025-01-15T07:15:36.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -355,7 +372,8 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T07:15:35.56Z"
+              "WhenOpened": "2025-01-15T07:15:35.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -367,19 +385,21 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T07:15:30.129Z"
+              "WhenOpened": "2025-01-15T07:15:30.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "TH_TKPM_PXD.csproj",
+              "Title": "TH_TKPM_PXD",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
               "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
               "RelativeToolTip": "TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T07:05:04.319Z"
+              "WhenOpened": "2025-01-15T07:05:04.319Z",
+              "EditorCaption": ""
             }
           ]
         }
