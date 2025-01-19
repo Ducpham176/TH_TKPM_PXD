@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TH_TKPM_PXD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d86615a819eb757af4aee20556eb03cebf072ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("TH_TKPM_PXD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TH_TKPM_PXD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

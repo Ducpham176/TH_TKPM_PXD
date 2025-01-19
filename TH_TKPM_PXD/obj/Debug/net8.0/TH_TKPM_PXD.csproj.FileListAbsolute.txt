@@ -148,3 +148,4 @@ C:\Users\ducph\source\ThietKePhanMem\TH_TKPM_PXD\TH_TKPM_PXD\obj\Debug\net8.0\TH
 C:\Users\ducph\source\ThietKePhanMem\TH_TKPM_PXD\TH_TKPM_PXD\obj\Debug\net8.0\TH_TKPM_PXD.genruntimeconfig.cache
 C:\Users\ducph\source\ThietKePhanMem\TH_TKPM_PXD\TH_TKPM_PXD\obj\Debug\net8.0\ref\TH_TKPM_PXD.dll
 C:\Users\ducph\source\ThietKePhanMem\TH_TKPM_PXD\TH_TKPM_PXD\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\ducph\source\ThietKePhanMem\TH_TKPM_PXD\TH_TKPM_PXD\obj\Debug\net8.0\TH_TKPM_PXD.sourcelink.json
