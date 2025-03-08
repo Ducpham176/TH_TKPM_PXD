@@ -1,17 +1,167 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj": {}
+    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj": {
+    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
-        "projectName": "TH_TKPM_PXD",
-        "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
+        "projectUniqueName": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj",
+        "projectName": "ASC.Business",
+        "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj",
         "packagesPath": "C:\\Users\\ducph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\obj\\",
+        "outputPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ducph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj"
+              },
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj",
+        "projectName": "ASC.DataAccess",
+        "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ducph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ducph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj"
+              },
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj",
+        "projectName": "ASC.Model",
+        "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj",
+        "packagesPath": "C:\\Users\\ducph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -53,6 +203,171 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectName": "ASC.Utilities",
+        "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj",
+        "packagesPath": "C:\\Users\\ducph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ducph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
+        "projectName": "TH_TKPM_PXD",
+        "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
+        "packagesPath": "C:\\Users\\ducph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ducph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj"
+              },
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj"
+              },
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj"
+              },
+              "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -65,13 +380,25 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.2, )"
             }
           },
           "imports": [
