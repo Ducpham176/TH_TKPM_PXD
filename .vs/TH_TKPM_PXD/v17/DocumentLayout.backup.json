@@ -3,6 +3,98 @@
   "WorkspaceRootPath": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asp.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|solutionrelative:asp.test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.utilities\\objectextenion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\objectextenion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.utilities\\sessionextensions.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\sessionextensions.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asp.test\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|solutionrelative:asp.test\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.model_new\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.model_new\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\th_tkpm_pxd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asp.test\\asp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|solutionrelative:asp.test\\asp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA661F92-7220-4413-A0B4-D098EC52FEFD}|ASC.Business_new\\ASC.Business.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.business_new\\asc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA661F92-7220-4413-A0B4-D098EC52FEFD}|ASC.Business_new\\ASC.Business.csproj|solutionrelative:asc.business_new\\asc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.model_new\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +103,12 @@
       "RelativeMoniker": "D:0:0:{D5DECCF0-12F7-4BAD-BF33-E504CC69B2BC}|ASC.DataAccess_new\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess_new\\asc.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.model_new\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.model_new\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Migrations\\20250308125014_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH_TKPM_PXD\\Migrations\\20250308125014_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\migrations\\20250304024840_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,31 +127,11 @@
       "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Migrations\\20250308124252_AddProductAndBooksTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH_TKPM_PXD\\Migrations\\20250308124252_AddProductAndBooksTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ducph\\AppData\\Local\\SourceServer\\5cda9c377690a0f31648fbc4dabb27a60fb4fb23dba3fbe62aa5c9599a52ebd1\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5DECCF0-12F7-4BAD-BF33-E504CC69B2BC}|ASC.DataAccess_new\\ASC.DataAccess.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.dataaccess_new\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,20 +166,20 @@
       "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA661F92-7220-4413-A0B4-D098EC52FEFD}|ASC.Business_new\\ASC.Business.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.business_new\\asc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA661F92-7220-4413-A0B4-D098EC52FEFD}|ASC.Business_new\\ASC.Business.csproj|solutionrelative:asc.business_new\\asc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.model_new\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F835FA06-E63A-40E5-9C8C-335AEBCF18D8}|ASC.Model_new\\ASC.Model.csproj|solutionrelative:asc.model_new\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE5E14AC-0F39-4B2C-946D-07257A295EA9}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA661F92-7220-4413-A0B4-D098EC52FEFD}|ASC.Business_new\\ASC.Business.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asc.business_new\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA661F92-7220-4413-A0B4-D098EC52FEFD}|ASC.Business_new\\ASC.Business.csproj|solutionrelative:asc.business_new\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\migrations\\20250308125014_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\migrations\\20250308125014_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\th_tkpm_pxd\\migrations\\20250308124252_addproductandbookstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2913417-3060-4153-9067-E4C365CD8824}|TH_TKPM_PXD\\TH_TKPM_PXD.csproj|solutionrelative:th_tkpm_pxd\\migrations\\20250308124252_addproductandbookstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|c:\\users\\ducph\\source\\thietkephanmem\\th_tkpm_pxd\\th_tkpm_pxd\\asp.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B973656-39C1-4619-AB0A-48BA27407C67}|ASP.Test\\ASP.Tests.csproj|solutionrelative:asp.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -129,17 +189,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Program.cs",
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\Program.cs",
               "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Program.cs",
               "RelativeToolTip": "TH_TKPM_PXD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T09:26:57.844Z",
               "IsPinned": true,
@@ -171,50 +231,306 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Books.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\Books.cs",
-              "RelativeDocumentMoniker": "ASC.Model_new\\Models\\Books.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\Books.cs",
-              "RelativeToolTip": "ASC.Model_new\\Models\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeToolTip": "ASC.Utilities\\SessionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:17:54.028Z",
+              "WhenOpened": "2025-03-08T14:49:42.052Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "ASP.Test\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\HomeControllerTests.cs",
+              "RelativeToolTip": "ASP.Test\\HomeControllerTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:39:21.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ASC.DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj",
-              "RelativeDocumentMoniker": "ASC.DataAccess_new\\ASC.DataAccess.csproj",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj",
-              "RelativeToolTip": "ASC.DataAccess_new\\ASC.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-01T08:41:15.318Z",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\Class1.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\Class1.cs",
+              "RelativeToolTip": "ASC.Utilities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:13:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectExtenion.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ObjectExtenion.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ObjectExtenion.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ObjectExtenion.cs",
+              "RelativeToolTip": "ASC.Utilities\\ObjectExtenion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:59:36.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:13:16.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:12:46.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Model_new\\Class1.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Class1.cs",
+              "RelativeToolTip": "ASC.Model_new\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:13:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ASC.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj",
+              "RelativeDocumentMoniker": "ASC.Model_new\\ASC.Model.csproj",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\ASC.Model.csproj",
+              "RelativeToolTip": "ASC.Model_new\\ASC.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T15:29:47.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ASC.Utilities.csproj",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeToolTip": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T15:22:38.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FakeSession.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\FakeSession.cs",
+              "RelativeDocumentMoniker": "ASP.Test\\FakeSession.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\FakeSession.cs",
+              "RelativeToolTip": "ASP.Test\\FakeSession.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:07:45.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Services\\AuthMessageSender.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Services\\AuthMessageSender.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Services\\AuthMessageSender.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Services\\AuthMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:56:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Services\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:56:49.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Services\\ISmsSender.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Services\\ISmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:56:50.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TH_TKPM_PXD\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T15:35:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TH_TKPM_PXD\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T15:35:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TH_TKPM_PXD.csproj",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
+              "RelativeToolTip": "TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T13:07:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ASP.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\ASP.Tests.csproj",
+              "RelativeDocumentMoniker": "ASP.Test\\ASP.Tests.csproj",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\ASP.Tests.csproj",
+              "RelativeToolTip": "ASP.Test\\ASP.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T15:39:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ASC.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj",
+              "RelativeDocumentMoniker": "ASC.Business_new\\ASC.Business.csproj",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj",
+              "RelativeToolTip": "ASC.Business_new\\ASC.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T12:11:54.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Data\\IIdentitySeed.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Data\\IIdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:58:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:58:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Data\\IdentitySeed.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "TH_TKPM_PXD\\Data\\IdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:14:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\Class1.cs",
+              "RelativeDocumentMoniker": "ASP.Test\\Class1.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASP.Test\\Class1.cs",
+              "RelativeToolTip": "ASP.Test\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:20:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\Models\\ServiceRequest.cs",
               "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\ServiceRequest.cs",
               "RelativeToolTip": "ASC.Model_new\\Models\\ServiceRequest.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T08:37:15.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\Users.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\Models\\Users.cs",
@@ -227,20 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IdentitySeed.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\IdentitySeed.cs",
-              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Data\\IdentitySeed.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Data\\IdentitySeed.cs",
-              "RelativeToolTip": "TH_TKPM_PXD\\Data\\IdentitySeed.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAIAzwCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T10:14:13.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 42,
               "Title": "20250308125014_AddTables.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Migrations\\20250308125014_AddTables.cs",
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\Migrations\\20250308125014_AddTables.cs",
@@ -253,7 +556,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\appsettings.json",
+              "RelativeDocumentMoniker": "TH_TKPM_PXD\\appsettings.json",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\appsettings.json",
+              "RelativeToolTip": "TH_TKPM_PXD\\appsettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T08:26:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ASC.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj",
+              "RelativeDocumentMoniker": "ASC.DataAccess_new\\ASC.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\ASC.DataAccess.csproj",
+              "RelativeToolTip": "ASC.DataAccess_new\\ASC.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T08:41:15.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "ASC.Model_new\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\Books.cs",
+              "RelativeToolTip": "ASC.Model_new\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:17:54.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "20250304024840_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Migrations\\20250304024840_InitialCreate.cs",
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\Migrations\\20250304024840_InitialCreate.cs",
@@ -266,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "MasterDataKey.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\MasterDataKey.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\Models\\MasterDataKey.cs",
@@ -279,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "MasterDataValue.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\MasterDataValue.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\Models\\MasterDataValue.cs",
@@ -292,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\Models\\Product.cs",
@@ -305,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 43,
               "Title": "20250308124252_AddProductAndBooksTables.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Migrations\\20250308124252_AddProductAndBooksTables.cs",
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\Migrations\\20250308124252_AddProductAndBooksTables.cs",
@@ -318,33 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\appsettings.json",
-              "RelativeDocumentMoniker": "TH_TKPM_PXD\\appsettings.json",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\appsettings.json",
-              "RelativeToolTip": "TH_TKPM_PXD\\appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T08:26:41.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationSettings.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
-              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
-              "RelativeToolTip": "TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T10:12:46.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "ApplicationSettings.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\AppData\\Local\\SourceServer\\5cda9c377690a0f31648fbc4dabb27a60fb4fb23dba3fbe62aa5c9599a52ebd1\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\5cda9c377690a0f31648fbc4dabb27a60fb4fb23dba3fbe62aa5c9599a52ebd1\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
@@ -352,24 +668,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\5cda9c377690a0f31648fbc4dabb27a60fb4fb23dba3fbe62aa5c9599a52ebd1\\TH_TKPM_PXD\\Configuration\\ApplicationSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:27:33.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ASC.Utilities.csproj",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj",
-              "RelativeDocumentMoniker": "ASC.Utilities\\ASC.Utilities.csproj",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\ASC.Utilities.csproj",
-              "RelativeToolTip": "ASC.Utilities\\ASC.Utilities.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T02:36:46.607Z",
+              "WhenOpened": "2025-03-04T03:27:33.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\Properties\\launchSettings.json",
@@ -377,35 +681,25 @@
               "RelativeToolTip": "TH_TKPM_PXD\\Properties\\launchSettings.json",
               "ViewState": "AgIAABEAAAAAAAAAAAAowBIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T03:02:37.45Z"
+              "WhenOpened": "2025-03-04T03:02:37.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\Repository.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess_new\\Repository.cs",
               "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\Repository.cs",
               "RelativeToolTip": "ASC.DataAccess_new\\Repository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:42:45.441Z"
+              "WhenOpened": "2025-03-01T08:42:45.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TH_TKPM_PXD\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TH_TKPM_PXD\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T10:13:16.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess_new\\Interfaces\\IRepository.cs",
@@ -413,11 +707,12 @@
               "RelativeToolTip": "ASC.DataAccess_new\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:42:05.969Z"
+              "WhenOpened": "2025-03-01T08:42:05.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess_new\\Interfaces\\IUnitOfWork.cs",
@@ -425,11 +720,12 @@
               "RelativeToolTip": "ASC.DataAccess_new\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:42:23.317Z"
+              "WhenOpened": "2025-03-01T08:42:23.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 36,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.DataAccess_new\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ASC.DataAccess_new\\UnitOfWork.cs",
@@ -437,11 +733,12 @@
               "RelativeToolTip": "ASC.DataAccess_new\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:43:04.302Z"
+              "WhenOpened": "2025-03-01T08:43:04.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "TH_TKPM_PXD",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
               "RelativeDocumentMoniker": "TH_TKPM_PXD\\TH_TKPM_PXD.csproj",
@@ -453,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\BaseTypes\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\BaseTypes\\BaseEntity.cs",
@@ -461,11 +758,12 @@
               "RelativeToolTip": "ASC.Model_new\\BaseTypes\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:15:26.315Z"
+              "WhenOpened": "2025-03-01T08:15:26.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "Constants.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\BaseTypes\\Constants.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\BaseTypes\\Constants.cs",
@@ -473,11 +771,12 @@
               "RelativeToolTip": "ASC.Model_new\\BaseTypes\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:15:55.924Z"
+              "WhenOpened": "2025-03-01T08:15:55.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "IAuditTracker.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\BaseTypes\\IAuditTracker.cs",
               "RelativeDocumentMoniker": "ASC.Model_new\\BaseTypes\\IAuditTracker.cs",
@@ -485,48 +784,12 @@
               "RelativeToolTip": "ASC.Model_new\\BaseTypes\\IAuditTracker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:16:32.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ASC.Business.csproj",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj",
-              "RelativeDocumentMoniker": "ASC.Business_new\\ASC.Business.csproj",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\ASC.Business.csproj",
-              "RelativeToolTip": "ASC.Business_new\\ASC.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T12:11:54.208Z",
+              "WhenOpened": "2025-03-01T08:16:32.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\Class1.cs",
-              "RelativeDocumentMoniker": "ASC.Utilities\\Class1.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Utilities\\Class1.cs",
-              "RelativeToolTip": "ASC.Utilities\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:13:57.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Class1.cs",
-              "RelativeDocumentMoniker": "ASC.Model_new\\Class1.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Model_new\\Class1.cs",
-              "RelativeToolTip": "ASC.Model_new\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:13:21.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ducph\\source\\ThietKePhanMem\\TH_TKPM_PXD\\TH_TKPM_PXD\\ASC.Business_new\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Business_new\\Class1.cs",
@@ -534,7 +797,20 @@
               "RelativeToolTip": "ASC.Business_new\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:11:51.283Z"
+              "WhenOpened": "2025-02-28T12:11:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

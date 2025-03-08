@@ -1,26 +1,37 @@
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
-using System.Diagnostics;
+using Microsoft.Identity.Client;
+using ASC.Utilities;
 using TH_TKPM_PXD.Configuration;
 using TH_TKPM_PXD.Models;
+using Microsoft.AspNetCore.Http;
 
-namespace TH_TKPM_PXD.Controllers
+namespace ASC.Web.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
+        //private readonly ILogger<HomeController> _logger;
         private IOptions<ApplicationSettings> _settings;
 
-        public HomeController(ILogger<HomeController> logger, IOptions<ApplicationSettings> settings)
+        public HomeController(
+            IOptions<ApplicationSettings> settings)
         {
-            _logger = logger;
             _settings = settings;
         }
 
         public IActionResult Index()
         {
-            ViewBag.Title = _settings.Value.ApplicationTitle;
+            // Thiết lập Session
+            HttpContext.Session.SetSession("Test", _settings.Value);
+
+            // Lấy Session
+            var settings = HttpContext.Session.GetSession<ApplicationSettings>("Test");
+
+            // Sử dụng IOptions
+            ViewBag.Title = settings.ApplicationTitle;
+
             return View();
         }
 
@@ -34,10 +45,10 @@ namespace TH_TKPM_PXD.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-
         public IActionResult Dashboard()
         {
             return View();
         }
+
     }
 }

@@ -33,12 +33,17 @@ builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection
 
 // ?? ??ng ký các d?ch v? khác
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
-builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
+
 builder.Services.AddSingleton<IIdentitySeed, IdentitySeed>();
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
+builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
+
+builder.Services.AddDistributedMemoryCache(); 
+builder.Services.AddSession(); 
 
 var app = builder.Build();
 
@@ -52,6 +57,8 @@ else
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
+
+app.UseSession();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
